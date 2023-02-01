@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+text-align: center;
+margin-top: 10px;
+margin-bottom: 10px;
+
+}
+.main_content{
+    width:600px;
+    margin:0 auto;
+    /* display: flex;
+    justify-content: center; */
+
+}
+.section_1{
+    background-color: rgb(0, 129, 227);
+    height: 250px;
+}
+.section_2{
+    background-color: rgb(245, 86, 210);
+    height: 250px;
+    
+}
+.section_3{
+    background-color: rgb(207, 205, 236);
+    height: 250px;
+}
+
+.photo1 , .photo2 , .photo3 , .photo4 , .photo5 , .photo6 , .photo7 , .photo8{
+    justify-content: center;
+    margin-top: 40px;
+    align-items: center;
+    /* display: flex; */
+    
+}
+
+.photo1{
+    width: 170px;
+    height: auto;
+    margin-left: 30px;
+}
+.photo2{
+    width: 170px;
+    height: auto;
+}
+.photo3{
+    width: 170px;
+    height: auto;
+    
+}
+.photo4{
+    width: 170px;
+    height: auto;
+    margin-left: 140px;
+}
+.photo5{
+    width: 170px;
+    height: auto;
+}
+.photo6{
+    width: 170px;
+    height: auto;
+    margin-left: 50px;
+}
+.photo7{
+    width: 170px;
+    height: auto;
+}
+.photo8{
+    width: 170px;
+    height: auto;
+}
+
